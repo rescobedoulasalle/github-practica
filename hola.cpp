@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-	cout<<"Hola mundo";
+	cout<<"Lenguaje de programacion III ";
 
 	return 0;
 }
